@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NODE.JS**
 
-- 👨‍💻 All of my projects are available at [https://arghya45-dev.github.io/arghya-portfolio/](https://my-portfolio-ashy-iota-18.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://arghya45-dev.github.io/arghya-portfolio/](https://arghya-chakraborty-portfolio.vercel.app/)
 
 - 💬 Ask me about **REACT**
 
