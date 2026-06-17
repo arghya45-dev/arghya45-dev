@@ -1,33 +1,202 @@
 <h1 align="center">Hi 👋, I'm Arghya Chakraborty</h1>
-<h3 align="center">I'm pursuing Computer Science & Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arghya45-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arghya45-dev" /> </p>
+<h3 align="center">
+Software Engineer Aspirant | Full-Stack Developer | AI Builder
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghya45-dev" alt="arghya45-dev" /></a> </p>
-
-- 🔭 I’m currently working on **UTILITIES MANAGEMENT SYSTEM**
-
-- 🌱 I’m currently learning **NODE.JS**
-
-- 👨‍💻 All of my projects are available at [https://arghya45-dev.github.io/arghya-portfolio/](https://arghya-chakraborty-portfolio.vercel.app/)
-
-- 💬 Ask me about **REACT**
-
-- 📫 How to reach me **chakrabortyarghya11@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/arghya.chakraborty.7169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arghya.chakraborty.7169/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/chakrabortyarghya11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/chakrabortyarghya11/" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications, AI-powered solutions, and solving real-world problems through technology.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://arghya-chakraborty-portfolio.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/arghya-chakraborty-61b151276/">💼 LinkedIn</a> •
+  <a href="https://leetcode.com/u/arghya11/">🧠 LeetCode</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya45-dev&show_icons=true&locale=en&layout=compact" alt="arghya45-dev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arghya45-dev&show_icons=true&locale=en" alt="arghya45-dev" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghya45-dev&" alt="arghya45-dev" /></p>
+🎓 B.Tech Computer Science & Engineering Student at Guru Nanak Institute of Technology
+
+💻 Passionate about Full-Stack Development, Backend Engineering, and AI Applications
+
+🌱 Currently learning advanced MERN Stack development and scalable backend architecture
+
+🧠 Actively improving Data Structures & Algorithms skills
+
+🚀 Interested in Software Engineering, Backend Development, and Full-Stack Development roles
+
+📍 West Bengal, India
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🎪 TESSERACT
+
+A full-stack technical fest management platform built using the MERN Stack.
+
+#### Key Features
+
+- Dynamic event registration
+- Solo and team participation management
+- Authentication & authorization
+- Payment proof uploads
+- Admin dashboard
+- Registration tracking
+- Responsive user interface
+
+#### Tech Stack
+
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+### 🤖 Voxis – AI Assistant
+
+An AI-powered multilingual assistant capable of understanding text, voice, and images.
+
+#### Key Features
+
+- Real-time AI conversations
+- Speech-to-text interaction
+- Text-to-speech responses
+- Multilingual communication
+- Image understanding
+- Fast response generation using Groq
+
+#### Tech Stack
+
+`Python` `Django` `Groq API` `SQLite`
+
+---
+
+## 🏆 Achievements
+
+🏅 Smart India Hackathon 2024 – National Qualifier
+
+🏅 Google AI & Machine Learning Virtual Internship
+
+🏅 Zero Trust Cloud Security Virtual Internship
+
+🏅 NPTEL Certification in Java Programming (IIT Kharagpur)
+
+🏅 Built multiple Full-Stack and AI-powered applications
+
+🏅 Strong foundation in Data Structures & Algorithms
+
+---
+
+## 📈 Coding Profiles
+
+### 🧠 LeetCode
+
+<a href="https://leetcode.com/u/arghya11/">
+https://leetcode.com/u/arghya11/
+</a>
+
+### 💼 LinkedIn
+
+<a href="https://www.linkedin.com/in/arghya-chakraborty-61b151276/">
+https://www.linkedin.com/in/arghya-chakraborty-61b151276/
+</a>
+
+### 🌐 Portfolio
+
+<a href="https://arghya-chakraborty-portfolio.vercel.app/">
+https://arghya-chakraborty-portfolio.vercel.app/
+</a>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arghya45-dev&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya45-dev&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arghya45-dev&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arghya45-dev&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Data Structures & Algorithms
+- Full-Stack Development
+- Backend System Design
+- AI-Powered Applications
+- Open Source Contributions
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: **chakrabortyarghya11@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/arghya-chakraborty-61b151276/
+
+🌐 Portfolio:
+https://arghya-chakraborty-portfolio.vercel.app/
+
+💻 GitHub:
+https://github.com/arghya45-dev
+
+---
+
+## 💡 Motto
+
+> Building technology that solves real-world problems while continuously learning and improving.
+
+---
+
+<p align="center">
+⭐ If you like my work, consider following me and exploring my repositories!
+</p>
