@@ -1,202 +1,223 @@
-<h1 align="center">Hi 👋, I'm Arghya Chakraborty</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer Aspirant | Full-Stack Developer | AI Builder
-</h3>
+# 👋 Hey, I'm Arghya Chakraborty
 
-<p align="center">
-Building scalable web applications, AI-powered solutions, and solving real-world problems through technology.
-</p>
+### Software Engineer Aspirant • Full-Stack Developer • AI Builder
 
-<p align="center">
-  <a href="https://arghya-chakraborty-portfolio.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/arghya-chakraborty-61b151276/">💼 LinkedIn</a> •
-  <a href="https://leetcode.com/u/arghya11/">🧠 LeetCode</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Passionate+About+Backend+Engineering;AI+%26+Full-Stack+Development;Always+Learning+Something+New" />
 
----
+<br>
 
-## 🚀 About Me
+<a href="https://arghya-chakraborty-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge" />
+</a>
 
-🎓 B.Tech Computer Science & Engineering Student at Guru Nanak Institute of Technology
+<a href="https://www.linkedin.com/in/arghya-chakraborty-61b151276/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-💻 Passionate about Full-Stack Development, Backend Engineering, and AI Applications
+<a href="https://leetcode.com/u/arghya11/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
 
-🌱 Currently learning advanced MERN Stack development and scalable backend architecture
-
-🧠 Actively improving Data Structures & Algorithms skills
-
-🚀 Interested in Software Engineering, Backend Development, and Full-Stack Development roles
-
-📍 West Bengal, India
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
+
+```cpp
+class ArghyaChakraborty {
+public:
+
+    string role =
+        "Software Engineer Aspirant";
+
+    vector<string> interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Data Structures & Algorithms"
+    };
+
+    string currentFocus =
+        "Building scalable applications and improving DSA";
+
+};
+```
+
+🎓 B.Tech CSE @ Guru Nanak Institute of Technology
+
+💡 Passionate about building impactful products using modern technologies
+
+⚡ Strong interest in Backend Engineering, System Design, and AI Applications
+
+🧠 Consistently sharpening problem-solving skills through DSA
+
+🌱 Currently exploring advanced MERN architecture and scalable backend systems
+
+---
+
+# ⚒️ Tech Arsenal
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript"/>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css"/>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
 
-### Database
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-### Tools & Platforms
+### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode"/>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 🎪 TESSERACT
+## 🎪 TESSERACT
 
-A full-stack technical fest management platform built using the MERN Stack.
+### Tech Fest Management Platform
 
-#### Key Features
+A full-stack MERN application developed to streamline technical fest operations and participant engagement.
 
-- Dynamic event registration
-- Solo and team participation management
-- Authentication & authorization
-- Payment proof uploads
-- Admin dashboard
-- Registration tracking
-- Responsive user interface
+### Highlights
 
-#### Tech Stack
+✅ Dynamic Event Registration
 
-`MongoDB` `Express.js` `React.js` `Node.js`
+✅ Team & Solo Participation Logic
 
----
+✅ Authentication & Authorization
 
-### 🤖 Voxis – AI Assistant
+✅ Admin Dashboard
 
-An AI-powered multilingual assistant capable of understanding text, voice, and images.
+✅ Payment Proof Verification
 
-#### Key Features
+✅ Real-Time Team Management
 
-- Real-time AI conversations
-- Speech-to-text interaction
-- Text-to-speech responses
-- Multilingual communication
-- Image understanding
-- Fast response generation using Groq
-
-#### Tech Stack
-
-`Python` `Django` `Groq API` `SQLite`
+**Stack:** MongoDB • Express • React • Node
 
 ---
 
-## 🏆 Achievements
+## 🤖 Voxis
 
-🏅 Smart India Hackathon 2024 – National Qualifier
+### AI-Powered Multilingual Assistant
 
-🏅 Google AI & Machine Learning Virtual Internship
+An intelligent assistant capable of understanding text, voice, and images while responding naturally in multiple languages.
 
-🏅 Zero Trust Cloud Security Virtual Internship
+### Highlights
 
-🏅 NPTEL Certification in Java Programming (IIT Kharagpur)
+✅ AI Chat
 
-🏅 Built multiple Full-Stack and AI-powered applications
+✅ Voice Interaction
 
-🏅 Strong foundation in Data Structures & Algorithms
+✅ Text-to-Speech
+
+✅ Image Understanding
+
+✅ Multilingual Support
+
+✅ Groq Integration
+
+**Stack:** Django • Python • Groq API
 
 ---
 
-## 📈 Coding Profiles
+# 🏆 Achievements
 
-### 🧠 LeetCode
+🥇 Smart India Hackathon 2024 (NQ)
 
-<a href="https://leetcode.com/u/arghya11/">
+🎖 Google AI & Machine Learning Internship
+
+🎖 Zero Trust Cloud Security Internship
+
+🎖 NPTEL Java Programming Certification
+
+🚀 Built Multiple Full-Stack & AI Applications
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arghya45-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya45-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arghya45-dev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arghya45-dev&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- Solve 300+ LeetCode Problems
+- Contribute to Open Source
+- Master Backend Engineering
+- Learn System Design
+- Build Production-Grade SaaS Products
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+🌐 Portfolio
+
+https://arghya-chakraborty-portfolio.vercel.app/
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/arghya-chakraborty-61b151276/
+
+🧠 LeetCode
+
 https://leetcode.com/u/arghya11/
-</a>
 
-### 💼 LinkedIn
+📧 Email
 
-<a href="https://www.linkedin.com/in/arghya-chakraborty-61b151276/">
-https://www.linkedin.com/in/arghya-chakraborty-61b151276/
-</a>
+chakrabortyarghya11@gmail.com
 
-### 🌐 Portfolio
-
-<a href="https://arghya-chakraborty-portfolio.vercel.app/">
-https://arghya-chakraborty-portfolio.vercel.app/
-</a>
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arghya45-dev&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya45-dev&layout=compact&theme=tokyonight"/>
-</p>
+### 💭 Philosophy
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arghya45-dev&theme=tokyonight"/>
-</p>
+*"Code is not just about solving problems; it's about creating impact."*
 
----
+⭐ Thanks for visiting my profile!
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arghya45-dev&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-## 📌 Current Focus
-
-- Data Structures & Algorithms
-- Full-Stack Development
-- Backend System Design
-- AI-Powered Applications
-- Open Source Contributions
-
----
-
-## 🤝 Connect With Me
-
-📧 Email: **chakrabortyarghya11@gmail.com**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/arghya-chakraborty-61b151276/
-
-🌐 Portfolio:
-https://arghya-chakraborty-portfolio.vercel.app/
-
-💻 GitHub:
-https://github.com/arghya45-dev
-
----
-
-## 💡 Motto
-
-> Building technology that solves real-world problems while continuously learning and improving.
-
----
-
-<p align="center">
-⭐ If you like my work, consider following me and exploring my repositories!
-</p>
+</div>
